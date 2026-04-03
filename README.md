@@ -1,4 +1,4 @@
-# DIY_SpaceMouse
+# DIY SpaceMouse
 A DIY SpaceMouse inspired my sb_ocr 's spacemouse build. Altough heavily inspired and based on sb_ocr's work, i designed all the files myself. 
 
 I designed this to make the top "cap" less tall and to accomodate the Seeed studio Xiao RP2040 microcontroller as that's what i could get my hands on. I also changed the code to be purely rotation and zoom as the magnetic sensor (the TLV493D) doesn't have enough DOF to track the full pitch, yaw, roll, zoom, and pan. The code currently only measures zoom, pitch and yaw, which I have found to be the most important movements to replicate.
