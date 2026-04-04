@@ -6,17 +6,17 @@ I designed this to make the top "cap" less tall and to accomodate the Seeed stud
 PLease note that the code is still a work in progress at this point. The buttons still need work to get working reliably and I've started to implement the code to make my DIY spacemouse compatible with the official spacemouse driver.
 
 The hardware required other than the 3d prints is:
-16x M2.5 X 6mm screws
-2x M2.5 X 4mm screws
-2x 10X3mm magnets
-3x 7.14X19.05mm compression springs
-3x 7.93X28.5mm extension springs
-18x M2.5X3.5X4mm heatset inserts
+•16x M2.5 X 6mm screws
+•2x M2.5 X 4mm screws
+•2x 10X3mm magnets
+•3x 7.14X19.05mm compression springs
+•3x 7.93X28.5mm extension springs
+•18x M2.5X3.5X4mm heatset inserts
 
 Electronics:
-Seeed Xiao RP2040
-TLV439D sensor
-2x "long" tactile switches
+•Seeed Xiao RP2040
+•TLV439D sensor
+•2x "long" tactile switches
 
 Assembly is fairly straitfoward, simply add threaded inserts (be carefull about the side for the magnetic sensor, it only has two screws that go on one side) and then assemble like the 3d model.
 
